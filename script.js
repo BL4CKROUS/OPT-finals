@@ -4,7 +4,7 @@ function fn(){
 
     if(pass == passcode) {
         
-        window.location.href = "./index.html"
+        window.location.href = "https://bl4ckrous.github.io/portfolio/"
     } else if(pass == "") {
         alert("Please Enter Passcode")
     } else if(pass != passcode) {
